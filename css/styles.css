@@ -14,3 +14,7 @@ body {
 h5.card-title {
     font-size: 2.2rem;
 }
+
+.sideNav {
+    background-color: #383838;
+}
