@@ -18,3 +18,12 @@ h5.card-title {
 .sideNav {
     background-color: #383838;
 }
+
+.nav .nav-link {
+    color: white;
+}
+
+.nav-item:hover {
+    background-color: orange;
+    color: white;
+}
